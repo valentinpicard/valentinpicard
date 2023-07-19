@@ -13,6 +13,7 @@ I also have experience with Javascript & Node.js which I'm using to develop my p
 #### Back End 
 - Python
 - Javascript
+- Unix
 
 #### Front End
 - React
@@ -22,3 +23,13 @@ I also have experience with Javascript & Node.js which I'm using to develop my p
 - MQTT
 - SNMP
 - FTP
+
+#### Tools
+- Vscode
+- SonarQube
+- Nexus
+
+#### Work Environments
+- Linux (Ubuntu)
+- Docker
+- Jenkins
