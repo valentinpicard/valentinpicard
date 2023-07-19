@@ -12,12 +12,13 @@ I also have experience with Javascript & Node.js which I'm using to develop my p
 
 #### Back End 
 - Python
-- Javascript
 - Unix
+- Node Js
 
 #### Front End
 - React
 - React Native
+- Javascript
 
 #### Protocols
 - MQTT
