@@ -1,36 +1,36 @@
 #### Hi there 👋
 
-I'm Valentin, a Back End Developer 💻.
-I mainly master python 🐍, which I use in my work for the purpose of deployment on an embedded system.
-I am used to working in a full continuous integration environment.
+I'm Valentin, a Back End Developer 💻 who works on embedded systems.
 
-About the Front End Development 🕸️, I am using React and React Native for work and personal projects.
+##### Experiences
 
-I also have experience with Javascript & Node.js which I'm using to develop my personnal applications 📱.
-
-
+Emmbedded ticketing solution - 2.5 years
+Sports mobile application - 2 years (personnal project)
+Simulation of the behavior of a medical catheter - 6 months (internship)
 
 #### Back End 
 - Python
-- Unix
-- Node Js
+- Node JS
+- Bash
 
 #### Front End
+- Javascript
 - React
 - React Native
-- Javascript
 
 #### Protocols
 - MQTT
 - SNMP
 - FTP
+- SFTP
 
-#### Tools
-- Vscode
+##### Continuous Integration
+- Jenkins
 - SonarQube
 - Nexus
 
-#### Work Environments
+#### Environments
 - Linux (Ubuntu)
 - Docker
-- Jenkins
+- Raspberry
+- ESP32
