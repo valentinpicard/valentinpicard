@@ -4,9 +4,9 @@ I'm Valentin, a Back End Developer 💻 who works on embedded systems.
 
 ##### Experiences
 
-Emmbedded ticketing solution - 2.5 years
-Sports mobile application - 2 years (personnal project)
-Simulation of the behavior of a medical catheter - 6 months (internship)
+- Emmbedded ticketing solution                     - 2.5 years
+- Sports mobile application                        - 2 years  (personnal project)
+- Simulation of the behavior of a medical catheter - 6 months (internship)
 
 #### Back End 
 - Python
