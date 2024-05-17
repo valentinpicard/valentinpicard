@@ -32,5 +32,7 @@ I'm Valentin, a Back End Developer 💻 who works on embedded systems.
 #### Environments
 - Linux (Ubuntu)
 - Docker
+- Android
+- Expo
 - Raspberry
 - ESP32
