@@ -4,8 +4,8 @@ I'm Valentin, a Back End Developer 💻 who works on embedded systems.
 
 ##### Experiences
 
-- Emmbedded ticketing solution                     - 2.5 years
-- Sports mobile application                        - 2 years  (personnal project)
+- Emmbedded ticketing solution                     - 3 years
+- Sports mobile application                        - 2.5 years  (personnal project)
 - Simulation of the behavior of a medical catheter - 6 months (internship)
 
 #### Back End 
@@ -21,8 +21,7 @@ I'm Valentin, a Back End Developer 💻 who works on embedded systems.
 #### Protocols
 - MQTT
 - SNMP
-- FTP
-- SFTP
+- FTP / SFTP
 
 ##### Continuous Integration
 - Jenkins
@@ -36,3 +35,5 @@ I'm Valentin, a Back End Developer 💻 who works on embedded systems.
 - Expo
 - Raspberry
 - ESP32
+- x86
+- Arm
