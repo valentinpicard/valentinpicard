@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I'm Valentin, a Back End Developer 💻 who works on embedded systems.
+I'm Valentin, a full stack developer 💻 who works on embedded systems.
 
 ##### Experiences
 
